@@ -14,7 +14,7 @@ setup(
     keywords=['tello', 'dji', 'drone', 'sdk', 'official sdk'],  # Keywords that define your package best
     install_requires=[  # I get to this in a second
         'numpy',
-        'opencv-python',
+        'opencv-contrib-python',
     ],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
